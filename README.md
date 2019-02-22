@@ -3,7 +3,7 @@ A collection of easy to solder DIY eurorack PCB's. All IC's are SOIC or DIP, pas
 
 # General Notes
 Pots and jacks aren't included in any digikey or mouser carts. You want these ones if you're in the US: 
-https://modularaddict.com/parts/synth-diy-parts/9mm-potentiometers 
+https://modularaddict.com/parts/synth-diy-parts/9mm-potentiometers
 https://modularaddict.com/parts/jacks/pj301m12-jacks
 Or similar from Thonk if you're in Europe.
 
