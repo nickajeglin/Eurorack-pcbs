@@ -2,6 +2,9 @@
 A collection of easy to solder DIY eurorack PCB's. All IC's are SOIC or DIP, passives are 1206 or THT for ease of soldering. There are also faceplate drill templates and graphics that can be used for toner transfer. 
 
 # General Notes
+
+Most of these are not my circuit designs. I simply put them in kicad and did PCB layout for eurorack format. I'm a mechanical engineer, not an electrical one, so there may be minor mistakes or violations of standard practice. I have tested most of these for functionality though. Exceptions are listed below. I can provide very limited support via email, but when it comes to troubleshooting, you're likely on your own. 
+
 Pots and jacks aren't included in any digikey or mouser carts. You want these ones if you're in the US: 
 
 https://modularaddict.com/parts/synth-diy-parts/9mm-potentiometers
