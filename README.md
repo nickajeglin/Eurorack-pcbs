@@ -55,7 +55,7 @@ Tested working 2019-02
 
 Required kludges: 
 
-V1.0 outer potentiometer leads are reversed and need to be jumpered (X style) to the correct holes.
+V1.0 outer potentiometer leads for RV1 and RV2 are reversed and need to be jumpered (X style) to the correct holes.
 
 V1.0 Silk showing polarity for C12 is reversed (+ side of C12 should be at GND).
 
