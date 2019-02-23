@@ -41,7 +41,7 @@ Design alterations: None
 
 Tested working 2019-02
 
-Required kludges: None!
+Required kludges: None! (but log/lin labels are swapped on the faceplate ink)
 
 Notes: Also none, this one is super easy and goes together in less than an hour. It's a 2 board pannelized design. Make sure your PCB fab house can handle internal slots for the switch footprint and pannelization. (oshpark and aisler did it without issue.) I may revise this to a one board design in the future to reduce PCB costs. 
 
@@ -78,9 +78,9 @@ Design: Magic Smoke Electronics (http://electro-music.com/wiki/pmwiki.php?n=Sche
 
 Design alterations: None
 
-NOT TESTED AT 12V YET
+Tested working 2019-02
 
-Required kludges: NOT TESTED YET
+Required kludges: Coarse pot leads (RV11) are reversed. Swap them with jumpers
 
 Notes: This is shrunk down to be a 1u module. There are power chain jumpers so that you can put 3 of them in a standard 3u tall panel, or you could build 1 and put it in a 1u tile. 
 
