@@ -61,7 +61,7 @@ V1.0 Silk showing polarity for C12 is reversed (+ side of C12 should be at GND).
 
 V1.0 Eurorack pwr connector interferes with pot feet on front of board. Simply bend one of the pot feet out of the way so it doesn't       contact the -12V side of the pwr connector.
 
-Notes: U2 is really far away from U4. Use lots of flux and make sure that U1-U4 are soldered really nicely, otherwise it won't work. U5 has several pins that are not connected (specifically 2, 9, 10, 12, 15, 16). Depending on the PCB fab you use, they might instantly delaminate. Don't freak out, it's not a problem. 
+Notes: U2 is really far away from U4. Use lots of flux and make sure that U1-U4 are soldered really nicely, otherwise it won't work. U5 has several pins that are not connected (specifically 2, 9, 10, 12, 15, 16). Depending on the PCB fab you use, they might instantly delaminate. Don't freak out, it's not a problem. There are some trimpot through holes that intersect jack footprints, so make sure you solder the jacks last, and clip the trimpot leads flush with the board.
 
 # Mixer: 
 
