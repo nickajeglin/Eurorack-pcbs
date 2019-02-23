@@ -80,7 +80,7 @@ Design alterations: None
 
 Tested working 2019-02
 
-Required kludges: Coarse pot leads (RV11) are reversed. Swap them with jumpers
+Required kludges: Coarse pot leads (RV11) are reversed. Swap them with jumpers. You also need to bend one of each pot support legs up under the pot to avoid the power chain pads. 
 
 Notes: This is shrunk down to be a 1u module. There are power chain jumpers so that you can put 3 of them in a standard 3u tall panel, or you could build 1 and put it in a 1u tile. 
 
