@@ -1,6 +1,8 @@
 # Eurorack-pcbs
 A collection of easy to solder DIY eurorack PCB's. All IC's are SOIC or DIP, passives are 1206 or THT for ease of soldering. There are also faceplate drill templates and graphics that can be used for toner transfer. 
 
+![modules](https://i.imgur.com/BY2SObw.jpg)
+
 # General Notes
 
 Most of these are not my circuit designs. I simply put them in kicad and did PCB layout for eurorack format. I'm a mechanical engineer, not an electrical one, so there may be minor mistakes or violations of standard practice. I have tested all for functionality though. I can provide very limited support via email, but when it comes to troubleshooting, you're likely on your own. 
@@ -77,7 +79,7 @@ Notes: PCB layout is incomplete as of 2019-02. This is a DC coupled (CV capable)
 
 # Utility LFO
 
-![VCO](https://i.imgur.com/B9UOJxG.png)
+![Util_LFO](https://i.imgur.com/B9UOJxG.png)
 
 (disregard the tht resistors, I ran out of smd ones, so I just bodged some on there.)
 
