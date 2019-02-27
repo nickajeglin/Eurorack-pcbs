@@ -1,7 +1,23 @@
 # Eurorack-pcbs
-A collection of easy to solder DIY eurorack PCB's. All IC's are SOIC or DIP, passives are 1206 or THT for ease of soldering. There are also faceplate drill templates and graphics that can be used for toner transfer. 
+A collection of easy to solder DIY eurorack PCB's. All IC's are SOIC or DIP, passives are 1206 or THT for ease of soldering. There are also faceplate drill templates and graphics that can be used for toner transfer. Some utility modules are set up as 1u pcb's so you can mix and match 3 at a time in a standard 3u panel with only 1 eurorack power connector needed. 
 
 ![modules](https://i.imgur.com/BY2SObw.jpg)
+
+# PCB status summary:
+VCA: read  to build
+
+VCO: ready to build, minor rework needed for V1.0
+
+Mult: ready to build
+
+Mixer: PCB layout 90% finished
+
+1u LFO: ready to build, minor rework needed for V1.0
+
+1u 3->1 averager/mixer: schematic finished, pcb layout in progress
+
+1u 1->3 mult: schematic finished, pcb layout in queue
+
 
 # General Notes
 
