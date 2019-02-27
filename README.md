@@ -18,6 +18,8 @@ Mixer: PCB layout 90% finished
 
 1u 1->3 mult: schematic finished, pcb layout in queue
 
+VCF: low priority for now
+
 
 # General Notes
 
