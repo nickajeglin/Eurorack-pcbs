@@ -47,7 +47,7 @@ Notes: This one is super easy and goes together in less than an hour. It's a 2 b
 
 # VCO: 
 
-![VCO](https://imgur.com/a/MYqJaMX.jpg)
+![VCO](https://i.imgur.com/5RcPoAI.jpg)
 
 Design: Ray Wilson (please visit http://musicfromouterspace.com/)
 
