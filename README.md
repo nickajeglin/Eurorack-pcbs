@@ -76,6 +76,8 @@ Required kludges: N/A
 Notes: PCB layout is incomplete as of 2019-02. This is a DC coupled (CV capable) 4 into 2 or 8 into 1 mixer. It's based off of Ray's mixers, but is simplified in that the switchable high gain channel has been replaced by a normal one. I have one of these running in my system right now that's just dead-bugged to the back of the faceplate. PCB layout is nearly completed, 
 
 # Utility LFO
+![VCO](https://i.imgur.com/B9UOJxG.png)
+(disregard the tht resistors, I ran out of smd ones, so I just bodged some on there.)
 
 Design: Magic Smoke Electronics (http://electro-music.com/wiki/pmwiki.php?n=Schematics.MagicSmokeLFODesignByTimServo)
 
