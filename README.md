@@ -4,9 +4,9 @@ A collection of easy to solder DIY eurorack PCB's. All IC's are SOIC or DIP, pas
 ![modules](https://i.imgur.com/BY2SObw.jpg)
 
 # PCB status summary:
-VCA: read  to build
+VCA: ready to build, digikey bom provided
 
-VCO: ready to build, minor rework needed for V1.0
+VCO: ready to build, digikey bom provided, minor rework needed for V1.0
 
 Mult: ready to build
 
