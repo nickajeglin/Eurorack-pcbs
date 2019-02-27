@@ -95,6 +95,8 @@ Notes: This is shrunk down to be a 1u module. There are power chain jumpers so t
 
 # Buffered Mult
 
+![mult](https://i.imgur.com/NJwEe1J.jpg)
+
 Design: Michael Barton (http://www.bartonmusicalcircuits.com) 
 
 Design alterations: None
