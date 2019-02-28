@@ -123,5 +123,5 @@ Tested working 2019-02
 
 Required kludges: None
 
-Notes: This one is actually THT. It's a super simple but emminently useful utility module. The only tip here is to make sure you place J10 and J13 before the power header if you use a shrouded connector. Otherwise the plastic shroud will cover up the tip connections. I'm not sure what the licensing is on Barton's designs, but I hope he won't mind as this is pretty much right off the TL074 datasheet.  
+Notes: This one is actually THT. It's a super simple but emminently useful utility module. The only tip here is to make sure you place J10 and J13 before the power header if you use a shrouded connector. Otherwise the plastic shroud will cover up the tip connections. Provided with permission from Michael Barton. 
     
