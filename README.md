@@ -61,7 +61,7 @@ Design alterations: None
 
 Tested working 2019-02
 
-Required kludges: None! (but log/lin labels are swapped on the faceplate ink, also I think the screw holes are in a nonstandard spot)
+Required kludges: I'm 90% sure that the pot leads are reversed on the offset control. I haven't had a chance to check yet though (2019-02-27). Update incoming. I'm also pretty sure that the screw holes on the faceplate are in a nonstandard spot, I'll double check this when I make the next one. 
 
 Notes: This one is super easy and goes together in less than an hour. It's a 2 board pannelized design. Make sure your PCB fab house can handle internal slots for the switch footprint and pannelization. (oshpark and aisler did it without issue.) I may revise this to a one board design in the future to reduce PCB costs. 
 
