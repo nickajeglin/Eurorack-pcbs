@@ -8,7 +8,7 @@ VCA: ready to build, digikey bom provided
 
 VCO: ready to build, digikey bom provided, minor rework needed for V1.0
 
-Mult: ready to build (awaiting permission from circuit designer)
+Mult: ready to build, see interactive BOM for parts list, there's only like 3
 
 Mixer: PCB layout 90% finished
 
