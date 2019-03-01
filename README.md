@@ -37,7 +37,7 @@ Switches can be hard to find. I've had a great experience with taiway switches f
 
 https://lovemyswitches.com/categories/switches/toggle-switches/mini-toggle-switches.html
 
-Plus they have switches with adorable little stubby levers. PCB's will accomodate "PCB mount" or "solder lug" style. 
+Plus they have switches with adorable little stubby levers. ~PCB's will accomodate "PCB mount" or "solder lug" style.~ Get PCB mount style for the moment. The current (2/2019) toggle switch footprint through holes are slightly narrow, so solder lug style switches require a little sand paper-ing of the terminals to fit.  
 
 Faceplates: 2mm aluminum works perfectly. Regular drill bits will work, and you can cut it with woodworking tools if you're super careful. If you can't get ahold of that, go to a hobby or art store and get some 1/8" aircraft birch ply. It's thin but strong. I have been using toner transfer to print graphics and labelling onto the panels. It works for aluminum or wood and results in a distressed look that I kinda like. You can find a tutorial at instructables (https://www.instructables.com/id/Transfer-PHOTOS-to-METAL/) but here's the bullet points: 
 
