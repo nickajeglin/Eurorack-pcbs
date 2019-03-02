@@ -107,7 +107,7 @@ Design alterations: None
 
 Tested working 2019-02
 
-Required kludges: Coarse pot leads (RV11) are reversed. Swap them with jumpers. You also need to bend one of each pot support legs up under the pot to avoid the power chain pads. 
+Required kludges: Coarse pot leads (RV11) are reversed. Swap them with jumpers. You also need to bend one of each pot support legs up under the pot to avoid the power chain pads. This circuit is stalling out at slow settings right now. See issue #14 if you can help explain why. 
 
 Notes: This is shrunk down to be a 1u module. There are power chain jumpers so that you can put 3 of them in a standard 3u tall panel with only one eurorack pwr connector,  or you could build 1 and put it in a 1u tile. Pots are super close together, so the max knob size you can put on them is 13mm diameter. Davies 1900H clones from thonk or modular addict (or wherever) will be ok. 
 
