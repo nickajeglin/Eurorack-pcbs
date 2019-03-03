@@ -95,19 +95,21 @@ Required kludges: N/A
 
 Notes: PCB layout is incomplete as of 2019-02. This is a DC coupled (CV capable) 4 into 2 or 8 into 1 mixer. It's based off of Ray's mixers, but is simplified in that the switchable high gain channel has been replaced by a normal one. I have one of these running in my system right now that's just dead-bugged to the back of the faceplate. PCB layout is nearly completed, 
 
-# Utility LFO
+# Utility LFO (8K LFO)
 
 ![Util_LFO](https://i.imgur.com/B9UOJxG.png)
 
 (disregard the tht resistors, I ran out of smd ones, so I just bodged some on there.)
 
-Design: Magic Smoke Electronics (http://electro-music.com/wiki/pmwiki.php?n=Schematics.MagicSmokeLFODesignByTimServo)
+Design: Tim Parkhurst: Magic Smoke Electronics (http://electro-music.com/wiki/pmwiki.php?n=Schematics.MagicSmokeLFODesignByTimServo)
 
 Design alterations: None
 
 Tested working 2019-02
 
-Required kludges: Coarse pot leads (RV11) are reversed. Swap them with jumpers. You also need to bend one of each pot support legs up under the pot to avoid the power chain pads. This circuit is stalling out at slow settings right now. See issue #14 if you can help explain why. 
+Required kludges: 
+V2.0: Issues from 1.0 should be fixed, but not tested yet. 
+V1.0:Coarse pot leads (RV11) are reversed. Swap them with jumpers. You also need to bend one of each pot support legs up under the pot to avoid the power chain pads. This circuit is stalling out at slow settings right now. See issue #14 if you can help explain why. 
 
 Notes: This is shrunk down to be a 1u module. There are power chain jumpers so that you can put 3 of them in a standard 3u tall panel with only one eurorack pwr connector,  or you could build 1 and put it in a 1u tile. Pots are super close together, so the max knob size you can put on them is 13mm diameter. Davies 1900H clones from thonk or modular addict (or wherever) will be ok. 
 
