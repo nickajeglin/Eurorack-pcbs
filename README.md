@@ -6,7 +6,7 @@ A collection of easy to solder DIY eurorack PCB's. All IC's are SOIC or DIP, pas
 # PCB status summary:
 VCA: ready to build, digikey bom provided
 
-VCO: ready to build, digikey bom provided, minor rework needed for V1.0
+VCO: ready to build, digikey bom provided, minor rework needed for V1.0, V2.0 ok. 
 
 Mult: ready to build, see interactive BOM for parts list, there's only like 3
 
@@ -77,11 +77,13 @@ Tested working 2019-02
 
 Required kludges: 
 
-V1.0 outer potentiometer leads for RV1 and RV2 are reversed and need to be jumpered (X style) to the correct holes.
+V2.0: Eurorack pwr connector interferes with pot feet on front of board. Simply bend one of the pot feet out of the way so it doesn't       contact the -12V side of the pwr connector. This is unlikely to be fixed in the near future. 
 
-V1.0 Silk showing polarity for C12 is reversed (+ side of C12 should be at GND).
+~V1.0 outer potentiometer leads for RV1 and RV2 are reversed and need to be jumpered (X style) to the correct holes.
 
-V1.0 Eurorack pwr connector interferes with pot feet on front of board. Simply bend one of the pot feet out of the way so it doesn't       contact the -12V side of the pwr connector.
+Silk showing polarity for C12 is reversed (+ side of C12 should be at GND).
+
+Eurorack pwr connector interferes with pot feet on front of board. Simply bend one of the pot feet out of the way so it doesn't       contact the -12V side of the pwr connector.~
 
 Notes: U2 is really far away from U4. Use lots of flux and make sure that U1-U4 are soldered really nicely, otherwise it won't work. U5 has several pins that are not connected (specifically 2, 9, 10, 12, 15, 16). Depending on the PCB fab you use, they might instantly delaminate. Don't freak out, it's not a problem. There are some trimpot through holes that intersect jack footprints, so make sure you solder the jacks last, and clip the trimpot leads flush with the board.
 
