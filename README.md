@@ -10,7 +10,7 @@ VCO: ready to build, digikey bom provided, minor rework needed for V1.0
 
 Mult: ready to build, see interactive BOM for parts list, there's only like 3
 
-Mixer: ~PCB layout 90% finished~ Update 2019-03: I'm scrapping the 4x1/8x1 format and going to a narrow (3 or 4u) 4 into 1. PCB will be less than half the price, and if you want more inputs you can just patch the output of one into an input of another. 
+Mixer: ~PCB layout 90% finished~ Update 2019-03: I'm scrapping the 4x2/8x1 format and going to a narrow (3 or 4u) 4 into 1. PCB will be less than half the price, and if you want more inputs you can just patch the output of one into an input of another. 
 
 1u LFO: ready to build, minor rework needed for V1.0
 
