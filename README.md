@@ -77,7 +77,7 @@ Tested working 2019-02
 
 Required kludges: 
 
-V2.0: Eurorack pwr connector interferes with pot feet on front of board. Simply bend one of the pot feet out of the way so it doesn't       contact the -12V side of the pwr connector. This is unlikely to be fixed in the near future. 
+V2.0: Eurorack pwr connector interferes with pot feet on front of board. Simply bend one of the pot feet out of the way so it doesn't       contact the -12V side of the pwr connector. This is unlikely to be fixed in the near future unless someone else wants to reroute around a new power connector location. 
 
 ~V1.0 outer potentiometer leads for RV1 and RV2 are reversed and need to be jumpered (X style) to the correct holes.~
 
