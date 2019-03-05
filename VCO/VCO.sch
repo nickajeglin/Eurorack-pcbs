@@ -74,7 +74,7 @@ F 1 "100k lin" V 1186 1600 50  0000 C CNN
 F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 1300 1600 50  0001 C CNN
 F 3 "~" H 1300 1600 50  0001 C CNN
 	1    1300 1600
-	0    -1   1    0   
+	0    1    1    0   
 $EndComp
 Text GLabel 750  1450 0    50   Input ~ 0
 R2P1
@@ -2287,7 +2287,7 @@ F 1 "100k lin" V 1386 1100 50  0000 C CNN
 F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 1500 1100 50  0001 C CNN
 F 3 "~" H 1500 1100 50  0001 C CNN
 	1    1500 1100
-	0    -1   1    0   
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	1150 1100 1350 1100
