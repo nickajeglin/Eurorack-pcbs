@@ -57,6 +57,8 @@ PCB fab houses: I really like Aisler, but they are kind of expensive and shippin
 
 # Dual log/lin VCA: 
 
+![VCA](https://i.imgur.com/jjCLWQ9.jpg)
+
 Design: Ray Wilson (please visit http://musicfromouterspace.com/)
 
 Design alterations: None
