@@ -10,15 +10,19 @@ VCO: ready to build, digikey bom provided, minor rework needed for V1.0, V2.0 ok
 
 Mult: ready to build, see interactive BOM for parts list, there's only like 3
 
-Mixer: ~PCB layout 90% finished~ Update 2019-03: I'm scrapping the 4x2/8x1 format and going to a narrow (3 or 4hp) 4 into 1. PCB will be less than half the price, and if you want more inputs you can just patch the output of one into an input of another. 
+Mixer: ~PCB layout 90% finished~ 
+Update 2019-03: I'm scrapping the 4x2/8x1 format and going to a narrow (3 or 4hp) 4 into 1. PCB will be less than half the price, and if you want more inputs you can just patch the output of one into an input of another. 
+Update 2019-04-18: PCB's for narrow mixer just came in. Waiting on mouser parts, and I'll post once the prototype is build. I might have some extra PCB's contact me via email if you're interested. 
 
-1u LFO: ready to build, minor rework needed for V1.0
+1u LFO: ready to build, minor rework needed for V1.0 !!There's a stalling issue at low frequency I can't figure out!! see the issues page for details
 
-1u 3->1 averager/mixer: schematic finished, pcb layout in progress
+3->1 averager/mixer: PCB's are in, waiting on mouser parts and prototype build to post files
 
 1u 1->3 mult: schematic finished, pcb layout in queue
 
 VCF: low priority for now
+
+VCS: PCB's are in, waiting on circuit designer permission and prototype build to post files
 
 
 # General Notes
