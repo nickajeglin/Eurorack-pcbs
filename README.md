@@ -11,13 +11,13 @@ VCO: ready to build, digikey bom provided, minor rework needed for V1.0, V2.0 ok
 Mult: ready to build, see interactive BOM for parts list, there's only like 3
 
 Mixer:
-Update 2019-04-18: PCB's for narrow mixer just came in. Waiting on mouser parts, and I'll post once the prototype is build. I might have some extra PCB's contact me via email if you're interested. 
-
 Update 2019-04-28: prototypes built. I reversed the supply rails on the TL072 in the kicad schematic lol. That means I need to flip the power header, and change some silk around. I should have this one released in a week or so.
 
-1u LFO: ready to build, minor rework needed for V1.0 !!There's a stalling issue at low frequency I can't figure out!! see the issues page for details
+Update 2019-05-15: prototypes are working. I gotta put the revision together to fix the reversed supply issue, but my job is kicking my ass right now, so it could be a month or more before I get around to it. If you're desperate for a cheap mixer, shoot me an email and I'll send you V1 files. Rework of V1 consists of flipping the euro power header and bypass caps 180 deg from the silk on the PCB layout. 
 
-3->1 averager/mixer: Prototypes tested. Doing cleanup for release
+~1u LFO: ready to build, minor rework needed for V1.0 !!There's a stalling issue at low frequency I can't figure out!! see the issues page for details~ You probably don't want to use this. I'm too dumb to figure out the stalling issue, so these are only good for 50hz-->audio rate modulation. I did a layout of David Haillant's LFO with SMD components, but I haven't asked permission to share the files yet. Watch this space. 
+
+3->1 averager/mixer: Prototypes tested and working. Doing cleanup for release (bypass caps intefere with plugging the damn thing in)
 
 1u 1->3 mult: schematic finished, pcb layout in queue
 
