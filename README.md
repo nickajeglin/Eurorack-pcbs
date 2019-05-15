@@ -32,6 +32,11 @@ VCS: PCB's are in, waiting on circuit designer permission and prototype build to
 
 Most of these are not my circuit designs. I simply put them in kicad and did PCB layout for eurorack format. I'm a mechanical engineer, not an electrical one, so there may be minor (major lol) mistakes or violations of standard practice. I have tested all for functionality though. I can provide very limited support via email, but when it comes to troubleshooting, you're likely on your own. 
 
+**SMD components**
+All the passives on these are 1206 size components. As long as you have a cheapo temperature controlled soldering iron, it'll be no problem for you. After a little practice, you'll find them easier than through hole components. 
+
+I know I said everything is 1206 size above, but I recently (04/2019) started using 0805 size parts. If you can handle 1206, I swear to god you can do 0805. They're basically the same width, so gripping them with tweezers is just as easy, but they're just a little shorter which makes laying out the PCB's much easier for me. Look at the ibom (interactive bom) files in each folder for the latest parts. I generate those straight from the latest PCB layouts before I upload, so they're guaranteed to have the correct part format. Mouser/digikey BOM's are more touch and go because I'm lazy. 
+
 **Pots/Jacks/Switches**
 
 Pots and jacks aren't included in any digikey or mouser carts. You want these ones if you're in the US: 
