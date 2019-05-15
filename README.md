@@ -60,7 +60,8 @@ Faceplates: 2mm aluminum works perfectly. Regular drill bits will work, and you 
 
 5) Hit it with another layer of poly for protection. 
 
-PCB fab houses: I really like Aisler, but they are kind of expensive and shipping takes 2 weeks to the US. They can definetly handle all of the features in these PCB's. I have also used oshpark with good results. JLCPCB is a cheaper option, even with 3 day DHL shipping to the US. All three can handle the plated slots for the jack and switch footprints with no problem.  
+**PCB fab houses**
+I really like Aisler, but they are kind of expensive and shipping takes 2 weeks to the US (as of 5/2019 they now have US production, I haven't tried it yet though). They can definetly handle all of the features in these PCB's. I have also used oshpark with good results. JLCPCB is a cheaper option, even with 3 day DHL shipping to the US. All three can handle the plated slots for the jack and switch footprints with no problem.  
 
 # Dual log/lin VCA: 
 
