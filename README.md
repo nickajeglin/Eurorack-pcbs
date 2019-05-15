@@ -30,7 +30,7 @@ VCS: PCB's are in, waiting on circuit designer permission and prototype build to
 
 **IMPORTANT:** Do not plug these in backwards. First of all, they don't have any reverse polarity protection so it will probably kill the module. Second of all, I have no idea (and can't be responsible for) what will happen to the rest of the modules in your system if/when you do upend the power rails. Maybe I'll get around to adding rpp eventually, but for now I'm living dangerously by relying on shrouded headers. 
 
-Most of these are not my circuit designs. I simply put them in kicad and did PCB layout for eurorack format. I'm a mechanical engineer, not an electrical one, so there may be minor mistakes or violations of standard practice. I have tested all for functionality though. I can provide very limited support via email, but when it comes to troubleshooting, you're likely on your own. 
+Most of these are not my circuit designs. I simply put them in kicad and did PCB layout for eurorack format. I'm a mechanical engineer, not an electrical one, so there may be minor (major lol) mistakes or violations of standard practice. I have tested all for functionality though. I can provide very limited support via email, but when it comes to troubleshooting, you're likely on your own. 
 
 Pots and jacks aren't included in any digikey or mouser carts. You want these ones if you're in the US: 
 
