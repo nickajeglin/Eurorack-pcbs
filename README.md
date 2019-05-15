@@ -32,19 +32,21 @@ VCS: PCB's are in, waiting on circuit designer permission and prototype build to
 
 Most of these are not my circuit designs. I simply put them in kicad and did PCB layout for eurorack format. I'm a mechanical engineer, not an electrical one, so there may be minor (major lol) mistakes or violations of standard practice. I have tested all for functionality though. I can provide very limited support via email, but when it comes to troubleshooting, you're likely on your own. 
 
+**Pots/Jacks/Switches**
+
 Pots and jacks aren't included in any digikey or mouser carts. You want these ones if you're in the US: 
 
 https://modularaddict.com/parts/synth-diy-parts/9mm-potentiometers
 
 https://modularaddict.com/parts/jacks/pj301m12-jacks
 
-Or similar from Thonk if you're in Europe.
+Or similar from Thonk if you're in Europe. You can buy several hundred jacks direct from the chinese plants off alibaba like I did, but you'll feel like a terrible person for not supporting your local diy suppliers.  
 
-Switches can be hard to find. I've had a great experience with taiway switches from these people: 
+Switches can be hard to find. I love taiway switches from these people: 
 
 https://lovemyswitches.com/categories/switches/toggle-switches/mini-toggle-switches.html
 
-Plus they have switches with adorable little stubby levers. ~PCB's will accomodate "PCB mount" or "solder lug" style.~ Get PCB mount style for the moment. The current (2/2019) toggle switch footprint through holes are slightly narrow, so solder lug style switches require a little sand paper-ing of the terminals to fit.  
+I have no affiliation with them, but they have switches with adorable little stubby levers, and I'll pay a premium for that shit any day. ~PCB's will accomodate "PCB mount" or "solder lug" style.~ Get PCB mount style for the moment. The current (2/2019) toggle switch footprint through holes are slightly narrow, so solder lug style switches require a little sand paper-ing of the terminals to fit.  
 
 Faceplates: 2mm aluminum works perfectly. Regular drill bits will work, and you can cut it with woodworking tools if you're super careful. If you can't get ahold of that, go to a hobby or art store and get some 1/8" aircraft birch ply. It's thin but strong. I have been using toner transfer to print graphics and labelling onto the panels. It works for aluminum or wood and results in a distressed look that I kinda like. You can find a tutorial at instructables (https://www.instructables.com/id/Transfer-PHOTOS-to-METAL/) but here's the bullet points: 
 
