@@ -40,9 +40,9 @@ https://modularaddict.com/parts/synth-diy-parts/9mm-potentiometers
 
 https://modularaddict.com/parts/jacks/pj301m12-jacks
 
-Or similar from Thonk if you're in Europe. You can buy several hundred jacks direct from the chinese plants off alibaba like I did, but you'll feel like a terrible person for not supporting your local diy suppliers.  
+Or similar from Thonk if you're in Europe. You can buy [several hundred jacks](https://www.aliexpress.com/item/Original-new-100-headset-socket-PJ-301M-3-5MM-audio-and-video-socket-measuring-90-degree/32919567094.html?spm=a2g0s.9042311.0.0.50554c4d2D22No) direct from China like I did, but you'll feel like a terrible person for not supporting your local diy suppliers, and the quality is noticeably worse than the ones from thonk or modular addict.    
 
-Switches can be hard to find. I love taiway switches from these people: 
+Good switches can be hard to find. I love taiway switches from these people: 
 
 https://lovemyswitches.com/categories/switches/toggle-switches/mini-toggle-switches.html
 
