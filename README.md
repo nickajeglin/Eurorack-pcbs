@@ -15,7 +15,7 @@ Update 2019-04-28: prototypes built. I reversed the supply rails on the TL072 in
 
 Update 2019-05-15: prototypes are working. I gotta put the revision together to fix the reversed supply issue, but my job is kicking my ass right now, so it could be a month or more before I get around to it. If you're desperate for a cheap mixer, shoot me an email and I'll send you V1 files. Rework of V1 consists of flipping the euro power header and bypass caps 180 deg from the silk on the PCB layout. 
 
-**~1u LFO:** ready to build, minor rework needed for V1.0 !!There's a stalling issue at low frequency I can't figure out!! see the issues page for details~ You probably don't want to use this. I'm too dumb to figure out the stalling issue, so these are only good for 50hz-->audio rate modulation. I did a layout of David Haillant's LFO with SMD components, but I haven't asked permission to share the files yet. Watch this space. 
+**~1u LFO:** ready to build, minor rework needed for V1.0 !!There's a stalling issue at low frequency I can't figure out!! see the issues page for details You probably don't want to use this. I'm too dumb to figure out the stalling issue, so these are only good for 50hz-->audio rate modulation. I did a layout of David Haillant's LFO with SMD components, but I haven't asked permission to share the files yet. Watch this space. 
 
 **3->1 averager/mixer:** Prototypes tested and working. Doing cleanup for release (bypass caps intefere with plugging the damn thing in). Let me know if you want V1.0 and I'll email it to you. 
 
