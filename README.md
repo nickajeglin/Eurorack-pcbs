@@ -28,6 +28,8 @@ VCS: PCB's are in, most of the pots are reversed as well as all of the SOT23 tra
 
 # General Notes
 
+**How expensive is this:** BOM's for each module are between 20 and 50 USD with shipping. A run of 3-10 PCB's costs between 15 and 50 USD with shipping depending on fab house. So we'll call that 35-100 USD per module. If you're just starting out, plan to make lots of mistakes and double it. I've finished about 24 modules since January 2019 and spent about $1500 and now I have to sleep with one eye open so my wife doesn't kill me for life insurance money. But learning is *priceless* so at least there's that I guess.  
+
 **IMPORTANT:** Do not plug these in backwards. First of all, they don't have any reverse polarity protection so it will probably kill the module. Second of all, I have no idea (and can't be responsible for) what will happen to the rest of the modules in your system if/when you do upend the power rails. Maybe I'll get around to adding rpp eventually, but for now I'm living dangerously by relying on shrouded headers. 
 
 Most of these are not my circuit designs. I simply put them in kicad and did PCB layout for eurorack format. I'm a mechanical engineer, not an electrical one, so there may be minor (major lol) mistakes or violations of standard practice. I have tested all for functionality though. I can provide very limited support via email, but when it comes to troubleshooting, you're likely on your own. 
