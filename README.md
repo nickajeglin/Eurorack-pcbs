@@ -4,26 +4,26 @@ A collection of easy to solder DIY eurorack PCB's. All IC's are SOIC or DIP, pas
 ![modules](https://i.imgur.com/BY2SObw.jpg)
 
 # PCB status summary:
-VCA: ready to build, digikey bom provided
+**VCA:** ready to build, digikey bom provided
 
-VCO: ready to build, digikey bom provided, minor rework needed for V1.0, V2.0 ok. 
+**VCO:** ready to build, digikey bom provided, minor rework needed for V1.0, V2.0 ok. 
 
-Mult: Super easy first DIY project no surface mount parts. Ready to build, see interactive BOM for parts list, there's only like 3.
+**Mult:** Super easy first DIY project no surface mount parts. Ready to build, see interactive BOM for parts list, there's only like 3.
 
-Mixer:
+**Mixer:**
 Update 2019-04-28: prototypes built. I reversed the supply rails on the TL072 in the kicad schematic lol. That means I need to flip the power header, and change some silk around. Let me know if you want V1.0 and I'll email it to you
 
 Update 2019-05-15: prototypes are working. I gotta put the revision together to fix the reversed supply issue, but my job is kicking my ass right now, so it could be a month or more before I get around to it. If you're desperate for a cheap mixer, shoot me an email and I'll send you V1 files. Rework of V1 consists of flipping the euro power header and bypass caps 180 deg from the silk on the PCB layout. 
 
-~1u LFO: ready to build, minor rework needed for V1.0 !!There's a stalling issue at low frequency I can't figure out!! see the issues page for details~ You probably don't want to use this. I'm too dumb to figure out the stalling issue, so these are only good for 50hz-->audio rate modulation. I did a layout of David Haillant's LFO with SMD components, but I haven't asked permission to share the files yet. Watch this space. 
+**~1u LFO:** ready to build, minor rework needed for V1.0 !!There's a stalling issue at low frequency I can't figure out!! see the issues page for details~ You probably don't want to use this. I'm too dumb to figure out the stalling issue, so these are only good for 50hz-->audio rate modulation. I did a layout of David Haillant's LFO with SMD components, but I haven't asked permission to share the files yet. Watch this space. 
 
-3->1 averager/mixer: Prototypes tested and working. Doing cleanup for release (bypass caps intefere with plugging the damn thing in). Let me know if you want V1.0 and I'll email it to you. 
+**3->1 averager/mixer:** Prototypes tested and working. Doing cleanup for release (bypass caps intefere with plugging the damn thing in). Let me know if you want V1.0 and I'll email it to you. 
 
-1u 1->3 mult: ~~schematic finished, pcb layout in queue~~ I'll probably never get around to finishing this one, since I already did the BiggerBetter THT mult above. If you want a 1u mult bad let me know and I'll finish it up sometime while I'm supposed to be working :D. But really, if you want a 1u mult that bad you can probably figure it out yourself from muffwiggler forum posts. 
+**1u 1->3 mult:** ~~schematic finished, pcb layout in queue~~ I'll probably never get around to finishing this one, since I already did the BiggerBetter THT mult above. If you want a 1u mult bad let me know and I'll finish it up sometime while I'm supposed to be working :D. But really, if you want a 1u mult that bad you can probably figure it out yourself from muffwiggler forum posts. 
 
-VCF: low priority for now--> maybe I'll make a tranisitor ladder VCF. 
+**VCF:** low priority for now--> maybe I'll make a tranisitor ladder VCF. 
 
-VCS: PCB's are in, most of the pots are reversed as well as all of the SOT23 transistors. Otherwise it **kicks ass**. I haven't asked the kassutronics guy permission to post this one yet, but I'll get around to it once I've got a solid rework strategy for V1.0. 
+**VCS:** PCB's are in, most of the pots are reversed as well as all of the SOT23 transistors. Otherwise it **kicks ass**. I haven't asked the kassutronics guy permission to post this one yet, but I'll get around to it once I've got a solid rework strategy for V1.0. 
 
 
 # General Notes
