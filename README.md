@@ -23,7 +23,9 @@ Update 2019-05-15: prototypes are working. I gotta put the revision together to 
 
 **VCF:** low priority for now--> maybe I'll make a tranisitor ladder VCF. 
 
-**VCS:** PCB's are in, most of the pots are reversed as well as all of the SOT23 transistors. Otherwise it **kicks ass**. I haven't asked the kassutronics guy permission to post this one yet, but I'll get around to it once I've got a solid rework strategy for V1.0. 
+**VCS:** PCB's are in, most of the pots are reversed as well as all of the SOT23 transistors. Otherwise it **kicks ass**. I haven't asked the kassutronics guy permission to post this one yet, but I'll get around to it once I've got a solid rework strategy for V1.0.
+
+**LOGIC**: COMING SOON!!11! I'm excited about this one. It's my first real honest to god module design! 3 input attenuverting mixer that goes into analog AND, OR, an averager, and a comparator. You can use the attenuverters alone by plugging into the first row of jacks. This removes the corresponding signal from the logic section. Input 3 is normalled to +10V so it's attenuverter acts as the cutoff control if you don't plug anything into that jack. PCB's arrived 2019-10-01, waiting impatiently on the mouser order to test. 
 
 
 # General Notes
