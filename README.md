@@ -25,14 +25,16 @@ Update 2019-05-15: prototypes are working. I gotta put the revision together to 
 
 **VCS:** PCB's are in, most of the pots are reversed as well as all of the SOT23 transistors. Otherwise it **kicks ass**. I haven't asked the kassutronics guy permission to post this one yet, but I'll get around to it once I've got a solid rework strategy for V1.0.
 
-**LOGIC**: COMING SOON!!11! I'm excited about this one. It's my first real honest to god module design! 3 input attenuverting mixer that goes into analog AND, OR, an averager, and a comparator. You can use the attenuverters alone by plugging into the first row of jacks. This removes the corresponding signal from the logic section. Input 3 is normalled to +10V so it's attenuverter acts as the cutoff control if you don't plug anything into that jack. PCB's arrived 2019-10-01, waiting impatiently on the mouser order to test. 
+**LOGIC**: COMING SOON!!11! I'm excited about this one. It's my first real honest to god module design! 3 input attenuverting mixer that goes into analog AND, OR, an averager, and a comparator. You can use the attenuverters alone by plugging into the first row of jacks. This removes the corresponding signal from the logic section. Input 3 is normalled to +10V so it's attenuverter acts as the cutoff control if you don't plug anything into that jack.
+
+Update 2019-10-16: PCB's arrived, mostly soldered just waiting on pots. I mixed up diode footprints, so V1.0 boards have the miniscule SOD-523 footprint. V2.0 will have SOD-123. Much more manageable.  
 
 
 # General Notes
 
 **How expensive is this?:** Common knowledge says that DIY is usually not cheaper than buying retail because economy of scale, educational mistakes etc. But look, eurorack modules are boutique shit, so in this case you'd be hard pressed to build this stuff for more than retail cost. Here's some fast numbers off the top of my head: BOM's for each module are between 20 and 50 USD with shipping. A run of 3-10 PCB's costs between 15 and 50 USD with shipping depending on fab house. So we'll call that 35-100 USD per module. If you're just starting out, plan to make lots of mistakes and double it. I've finished about 24 modules since January 2019 and spent about $1500 for an average of $62 per module. Now I have to sleep with one eye open so my wife doesn't kill me for life insurance money, but *learning is priceless* so at least there's that I guess.  
 
-**IMPORTANT:** Do not plug these in backwards. First of all, they don't have any reverse polarity protection so it will probably kill the module. Second of all, I have no idea (and can't be responsible for) what will happen to the rest of the modules in your system if/when you do upend the power rails. Maybe I'll get around to adding rpp eventually, but for now I'm living dangerously by relying on shrouded headers. 
+**IMPORTANT:** Do not plug these in backwards. First of all, (most) don't have any reverse polarity protection so it will probably kill the module. Second of all, I have no idea (and can't be responsible for) what will happen to the rest of the modules in your system if/when you do upend the power rails. Maybe I'll get around to adding rpp eventually, but for now I'm living dangerously by relying on shrouded headers. 
 
 Most of these are not my circuit designs. I simply put them in kicad and did PCB layout for eurorack format. I'm a mechanical engineer, not an electrical one, so there may be minor (major lol) mistakes or violations of standard practice. I have tested all for functionality though. I can provide very limited support via email, but when it comes to troubleshooting, you're likely on your own. 
 
