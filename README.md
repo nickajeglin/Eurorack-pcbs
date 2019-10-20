@@ -25,9 +25,7 @@ Update 2019-05-15: prototypes are working. I gotta put the revision together to 
 
 **VCS:** PCB's are in, most of the pots are reversed as well as all of the SOT23 transistors. Otherwise it **kicks ass**. I haven't asked the kassutronics guy permission to post this one yet, but I'll get around to it once I've got a solid rework strategy for V1.0.
 
-**LOGIC**: COMING SOON!!11! I'm excited about this one. It's my first real honest to god module design! 3 input attenuverting mixer that goes into analog AND, OR, an averager, and a comparator. You can use the attenuverters alone by plugging into the first row of jacks. This removes the corresponding signal from the logic section. Input 3 is normalled to +10V so it's attenuverter acts as the cutoff control if you don't plug anything into that jack.
-
-Update 2019-10-16: PCB's arrived, mostly soldered just waiting on pots. I mixed up diode footprints, so V1.0 boards have the miniscule SOD-523 footprint. V2.0 will have SOD-123. Much more manageable.  
+**LOGIC**: Ready to build. 
 
 
 # General Notes
@@ -153,3 +151,14 @@ Required kludges: None
 
 Notes: This one is actually THT. It's a super simple but emminently useful utility module. The only tip here is to make sure you place J10 and J13 before the power header if you use a shrouded connector. Otherwise the plastic shroud will cover up the tip connections. Provided with permission from Michael Barton. 
     
+# Analog Logic
+
+![logic](https://imgur.com/a/X4tRU72)
+
+Design: ME!
+
+tested working 2019-10-19
+
+Notes: I'm excited about this one. It's my first real honest to god module design! 3 input attenuverting mixer that goes into analog AND, OR, an averager, and a comparator. You can use the attenuverters alone by plugging into the first row of jacks. This removes the corresponding signal from the logic section. Input 3 is normalled to +10V so it's attenuverter acts as the cutoff control if you don't plug anything into that jack.
+
+NOTES FOR V1.0 PCB's: Prior to 2019-10-19. I mixed up diode footprints, so V1.0 boards have the miniscule SOD-523 footprint. V2.0 has SOD-323. Much more manageable.  
