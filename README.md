@@ -153,7 +153,7 @@ Notes: This one is actually THT. It's a super simple but emminently useful utili
     
 # Analog Logic
 
-![logic](https://imgur.com/a/X4tRU72)
+![logic](https://imgur.com/ro2pi42)
 
 Design: ME!
 
