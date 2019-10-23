@@ -161,4 +161,6 @@ tested working 2019-10-19
 
 Notes: I'm excited about this one. It's my first real honest to god module design! 3 input attenuverting mixer that goes into analog AND, OR, an averager, and a comparator. You can use the attenuverters alone by plugging into the first row of jacks. This removes the corresponding signal from the logic section. Input 3 is normalled to +10V so it's attenuverter acts as the cutoff control if you don't plug anything into that jack.
 
-NOTES FOR V1.0 PCB's: Prior to 2019-10-19. I mixed up diode footprints, so V1.0 boards have the miniscule SOD-523 footprint. V2.0 has SOD-323. Much more manageable.  
+NOTES FOR V1.0 PCB's: Prior to 2019-10-19. I mixed up diode footprints, so V1.0 boards have the miniscule SOD-523 footprint. V2.0 has SOD-323. Much more manageable.
+
+V2.1 is current. I moved the potentiometers slightly based on feedback from a couple people. They're still on a diagonal, but a little further from the jacks and evenly spaced. 
