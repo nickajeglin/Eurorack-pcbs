@@ -9,6 +9,7 @@ A collection of easy to solder DIY eurorack PCB's. All IC's are SOIC or DIP, pas
 > 
 > I don't think that I will go back and recreate what is gone. Losing so much work is disappointing and disheartening, but truthfully it's time to move on. Back in 2019, unchecked mental illness helped me maintain the sort of work output that is unhealthy in the long run. As I've gotten a handle on that I've needed to slow down on some hobbies, and this is one of them.     
 > This will probably be my last commit on this repository. I hope that these PCB's will help someone make some kickass music.
+> 
 > *Nick, 2025-01-03*
 >
 > **P.S.** One item thankfully spared from the data loss was my semi-artistic layout of the 1972 "surf synthesizer" detailed midway through [this article.](https://www.preservationsound.com/2011/01/music-synthesizers-in-popular-electronics-1972/) I will upload the relevant files shortly
