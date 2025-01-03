@@ -12,7 +12,7 @@ A collection of easy to solder DIY eurorack PCB's. All IC's are SOIC or DIP, pas
 > 
 > *Nick, 2025-01-03*
 >
-> **P.S.** One item thankfully spared from the data loss was my semi-artistic layout of the 1972 "surf synthesizer" detailed midway through [this article.](https://www.preservationsound.com/2011/01/music-synthesizers-in-popular-electronics-1972/) I will upload the relevant files shortly
+> **P.S.** One item thankfully spared from the data loss was my semi-artistic layout of the 1972 "surf synthesizer" detailed midway through [this article.](https://www.preservationsound.com/2011/01/music-synthesizers-in-popular-electronics-1972/) The original article is included in the build docs folder and has some tips on adjusting the circuit properly. Enjoy :D
 > 
 > ![surf synth](https://i.imgur.com/elUhXxU.png)
 
